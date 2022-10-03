@@ -1,3 +1,3 @@
 # 100DaysOfCode-js
 
-Advanced Javascript concepts revision.
+A Thorough Javascript  revision from the basics to Advanced concepts.
